@@ -1,11 +1,10 @@
 # R-DEK-body-script
 R script to aggregate time-resolved data from a microscopic time-lapse experiment
 
-Installation
-
-Prerequisites
+## Prerequisites
 
 This script was developed with R software version 3.4.3
+
 Following R libraries are required to run the script:
 
 library(plyr)          
